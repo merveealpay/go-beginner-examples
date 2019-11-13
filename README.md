@@ -4,7 +4,7 @@ Here are my exercises to learn the go programming language, if you want to try t
 
 Golang öğrenmeye başladım ve küçük alıştırmalar yaparak bu dile ısınmaya çalışıyorum :)
 
-Yararlandığım kaynaklar :
+Yararlandığım kaynaklar // resources that I have used 
 - Introducing Go Kitabı http://file.allitebooks.com/20160110/Introducing%20Go.pdf
 
 - Go dilinde başlangıç seviyesi için bir blog: http://golang.gelistiriciyiz.biz/2016/03/30/go-ogreniyorum-gun-1/index.html
